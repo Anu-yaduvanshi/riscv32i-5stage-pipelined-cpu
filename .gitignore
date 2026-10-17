@@ -1,0 +1,11 @@
+# Simulation executables
+sim/*.vvp
+sim/*.out
+
+# Waveform dump files
+waves/*.vcd
+
+# Editor / OS junk
+.vscode/
+Thumbs.db
+Desktop.ini
